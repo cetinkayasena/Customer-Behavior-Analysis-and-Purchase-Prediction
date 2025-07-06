@@ -1,5 +1,5 @@
 
-# Modeling Customer Behavior to Predict Purchase Success from Session Data
+# Customer Behavior Analysis and Purchase Prediction
 
 ## Project Overview
 
