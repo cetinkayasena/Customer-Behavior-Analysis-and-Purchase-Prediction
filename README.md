@@ -85,5 +85,3 @@ Sena Çetinkaya - seenaacetinkaya@gmail.com
 *This project adheres to ethical standards and ensures the privacy of all data subjects involved.*
 
 ```
-
----
