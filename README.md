@@ -1,4 +1,4 @@
-```markdown
+
 # Modeling Customer Behavior to Predict Purchase Success from Session Data
 
 ## Project Overview
